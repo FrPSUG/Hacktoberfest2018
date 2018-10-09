@@ -19,3 +19,5 @@ Get-Process -Name Chrome
 ## Projets
 * Creer un outil d'inventaire de machines
   * Creer un dossier "Projet-Inventory"
+  
+  N'importe quoi ;-)
